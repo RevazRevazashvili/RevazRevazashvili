@@ -1,7 +1,7 @@
 
 <!---->
 <!--Visitor count-->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Cx3n1.Cx3n1" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RevazRevazashvili" />
 
 <!--Name typing-->
 <!--Instructions: at the end on lines= write your text (+ will be space) if you separate with ; you will get multiple lines displaying in cycle-->
