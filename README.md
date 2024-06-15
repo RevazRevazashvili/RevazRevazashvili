@@ -13,9 +13,9 @@
 <br/>
 
 <div align="center">
-🔭 I’m currently working on Language Models for OCR, Computer Vision and NLP <br><br>
-- 🌱 I’m currently learning Large Language Models, Langchain and Deep Learning
-- 👯 I’m looking to collaborate on Open Source Projects
+- 🔭 I’m currently working on Language Models for OCR, Computer Vision and NLP <br><br>
+- 🌱 I’m currently learning Large Language Models, Langchain and Deep Learning <br><br>
+- 👯 I’m looking to collaborate on Open Source Projects <br><br>
  </div>
  
 <div align="center"> 
