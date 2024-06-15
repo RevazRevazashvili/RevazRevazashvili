@@ -20,7 +20,7 @@
  
 <div align="center"> 
   <a href="mailto:revazashvilirevaz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=green" />
   </a>
   <a href="https://www.linkedin.com/in/revaz-revazashvili-1a1451241" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,jupyter,googlecolab,pycharm,git" /><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,jupyter,pycharm,git" /><br>
 </div>
 
 <hr/>
