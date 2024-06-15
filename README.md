@@ -32,9 +32,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,pycharm,git,anaconda,selenium" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,pycharm,git,anaconda" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" style="margin: 0 10px;" /><br>
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,keras,selenium,beautifulsoup," />
+    
 </div>
 
 <hr/>
