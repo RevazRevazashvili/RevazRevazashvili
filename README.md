@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,jupyter,pycharm,git" /><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,pycharm,git" /><br>
 </div>
 
 <hr/>
@@ -41,7 +41,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Cx3n1/Cx3n1/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RevazRevazashvili/RevazRevazashvili/output/snake.svg" />
 </div>
 
 <hr/>
