@@ -34,6 +34,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql" />
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,pycharm,git" /><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colab_Logo.svg" height="40" style="margin: 0 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" style="margin: 0 10px;" />
 </div>
 
 <hr/>
