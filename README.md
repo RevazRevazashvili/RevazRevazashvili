@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,pycharm,git" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,pycharm,git,anaconda,selenium" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" style="margin: 0 10px;" />
 </div>
 
