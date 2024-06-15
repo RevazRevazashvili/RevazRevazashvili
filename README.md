@@ -35,7 +35,6 @@
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql,sqlite" /><br>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,pycharm,git,anaconda" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" style="margin: 0 10px;" /><br>
-    <img src="https://skillicons.dev/icons?i=pyqt5" />
     
 </div>
 
