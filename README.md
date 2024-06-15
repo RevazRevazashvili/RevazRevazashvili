@@ -33,9 +33,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,pycharm,git" /><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colab_Logo.svg/1200px-Google_Colab_Logo.svg.png" height="40" style="margin: 0 10px;" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,pycharm,git" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" style="margin: 0 10px;" />
 </div>
 
 <hr/>
