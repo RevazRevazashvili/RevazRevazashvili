@@ -32,11 +32,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql,sqlite" /><br>
-    <p align="left">
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,pycharm,git,anaconda" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="50" style="margin-left: 10px;" />
-    </p>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,mysql,sqlite" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="50" style="margin-left: 10px;" /><br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,pycharm,git,anaconda" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" style="margin: 0 10px;" /><br>
     <img src="https://skillicons.dev/icons?i=windows,linux" /><br>
     
