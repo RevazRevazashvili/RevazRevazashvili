@@ -37,6 +37,7 @@
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,github,pycharm,git,anaconda" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50" style="margin: 0 10px;" /><br>
     <img src="https://skillicons.dev/icons?i=windows,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=godot" /><br>
     
 </div>
 
