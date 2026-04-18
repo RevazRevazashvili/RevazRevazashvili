@@ -7,7 +7,7 @@
 <!--Instructions: at the end on lines= write your text (+ will be space) if you separate with ; you will get multiple lines displaying in cycle-->
 <!--Duration is in milliseconds-->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=500&height=70&duration=4000&lines=revaza;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&color=green&vCenter=true&width=500&height=70&duration=4000&lines=revaza;" />
 </h1>
 <h3 align="center">A passionate ML/NLP and Data Engineer</h3>
 <br/>
