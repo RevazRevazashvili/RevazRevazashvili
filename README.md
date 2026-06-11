@@ -9,12 +9,12 @@
 <h1 align="center"; color=green>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=500&height=70&duration=4000&lines=revaza;" />
 </h1>
-<h3 align="center">A passionate ML/NLP and Data Engineer</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 <br/>
 
 <div align="center">
-- 🔭 I’m currently working on Language Models for OCR, Computer Vision and NLP <br><br>
-- 🌱 I’m currently learning Large Language Models, Langchain and Deep Learning <br><br>
+- 🔭 I’m currently working on Data Engineering projects <br><br>
+- 🌱 I’m currently learning Big Data and ML/AI <br><br>
 - 👯 I’m looking to collaborate on Open Source Projects <br><br>
  </div>
  
@@ -64,4 +64,4 @@
 
 
 
-![snake gif](https://github.com/RevazRevazashvili/RevazRevazashvili/blob/output/github-contribution-grid-snake-dark.gif)
+![snake gif](https://github.com/RevazRevazashvili/RevazRevazashvili/blob/output/github-contribution-grid-snake.gif)
